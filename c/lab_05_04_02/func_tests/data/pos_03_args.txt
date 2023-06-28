@@ -1,0 +1,2 @@
+ab
+../data/pos_03_stdin.txt

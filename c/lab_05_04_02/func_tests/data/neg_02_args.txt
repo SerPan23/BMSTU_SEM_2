@@ -1,0 +1,2 @@
+ab
+../data/neg_02_stdin.txt
